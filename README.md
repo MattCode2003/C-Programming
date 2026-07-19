@@ -1,5 +1,5 @@
 # C-Programming
-This contains tasks that I completed that taught me the c programming language.  
+This contains tasks that I completed for a first year module at uni called programming and algorithms that taught me the c programming language.  
 This was all done on linux using ANSI c and Valgrind memory checker
 
 There are 5 sets of tasks that increase in difficulty they are as follows: 
